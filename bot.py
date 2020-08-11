@@ -5,7 +5,7 @@ import sqlite3
 from mail import send_mail
 from sensitive import tok, user_id, name, username
 
-TOKEN = tok
+TOKEN = "1196507307:AAE-GCOFb4Qr3HDOzTxON8Q8suKJi85vuDQ"
 
 
 # Enable logging
